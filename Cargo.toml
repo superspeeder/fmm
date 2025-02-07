@@ -10,3 +10,5 @@ serde_json = "1.0.134"
 bimap = { version = "0.6.3", features = ["serde"] }
 egui = { version = "0.31.0", features = ["persistence"] }
 egui_extras = "0.31.0"
+indexmap = "2.7.0"
+egui_dock = "0.16.0"
